@@ -1,0 +1,8 @@
+{
+   "PackageName": "de.telekom.appstarter",
+   "AppName": "appstarter",
+   "AppPath": "User/axelscwharz/Desktop",
+   "KeyStore": "test.keystore",
+   "KeyPass": "pass.txt",
+   "SigningScheme": 2,
+}
